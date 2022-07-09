@@ -1,0 +1,1 @@
+{"ilosc_kwiatkow": 7, "ilosc_monet": 260, "ilosc_barwnikow": 1, "ilosc_wywarow": 1, "ilosc_herbaty": 0, "ilosc_ziol": 0, "zebrane_kwiaty": 18, "nazwa_sceny": 5}
